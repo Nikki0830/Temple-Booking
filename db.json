@@ -1,0 +1,75 @@
+ {
+ 
+ "data": [
+  {
+    "id": "1",
+    "temple_name": "Badrinath Temple",
+    "city": "Chamoli, Uttarakhand",
+    "url": "https://robohash.org/estvoluptasrecusandae.png?size=50x50&set=set1",
+    "items": ["agarbatti", "flowers", "dhoop", "dia", "sindur", "coconut"]
+  },
+  {
+    "id": "2",
+    "temple_name": "Sun Temple",
+    "city": "Konark, Odisha",
+    "url": "https://robohash.org/estvoluptasrecusandae.png?size=50x50&set=set1",
+    "items": ["agarbatti", "flowers", "dhoop", "dia", "sindur", "coconut"]
+  },
+  {
+    "id": "3",
+    "temple_name": "Brihadeeswara Temple",
+    "city": "Thanjavur, Tamil Nadu",
+    "url": "https://robohash.org/estvoluptasrecusandae.png?size=50x50&set=set1",
+    "items": ["agarbatti", "flowers", "dhoop", "dia", "sindur", "coconut"]
+  },
+  {
+    "id": "4",
+    "temple_name": "Kedarnath Temple",
+    "city": "Rudraprayag, Uttarakhand",
+    "url": "https://robohash.org/estvoluptasrecusandae.png?size=50x50&set=set1",
+    "items": ["agarbatti", "flowers", "dhoop", "dia", "sindur", "coconut"]
+  },
+  {
+    "id": "5",
+    "temple_name": "Sanchi Stupa",
+    "city": "Sanchi, Madhya Pradesh",
+    "url": "https://robohash.org/estvoluptasrecusandae.png?size=50x50&set=set1",
+    "items": ["agarbatti", "flowers", "dhoop", "dia", "sindur", "coconut"]
+  },
+  {
+    "id": "6",
+    "temple_name": "Badrinath Temple",
+    "city": "Chamoli, Uttarakhand",
+    "url": "https://robohash.org/estvoluptasrecusandae.png?size=50x50&set=set1",
+    "items": ["agarbatti", "flowers", "dhoop", "dia", "sindur", "coconut"]
+  },
+  {
+    "id": "7",
+    "temple_name": "Sun Temple",
+    "city": "Konark, Odisha",
+    "url": "https://robohash.org/estvoluptasrecusandae.png?size=50x50&set=set1",
+    "items": ["agarbatti", "flowers", "dhoop", "dia", "sindur", "coconut"]
+  },
+  {
+    "id": "8",
+    "temple_name": "Brihadeeswara Temple",
+    "city": "Thanjavur, Tamil Nadu",
+    "url": "https://robohash.org/estvoluptasrecusandae.png?size=50x50&set=set1",
+    "items": ["agarbatti", "flowers", "dhoop", "dia", "sindur", "coconut"]
+  },
+  {
+    "id": "9",
+    "temple_name": "Kedarnath Temple",
+    "city": "Rudraprayag, Uttarakhand",
+    "url": "https://robohash.org/estvoluptasrecusandae.png?size=50x50&set=set1",
+    "items": ["agarbatti", "flowers", "dhoop", "dia", "sindur", "coconut"]
+  },
+  {
+    "id": "10",
+    "temple_name": "Sanchi Stupa",
+    "city": "Sanchi, Madhya Pradesh",
+    "url": "https://robohash.org/estvoluptasrecusandae.png?size=50x50&set=set1",
+    "items": ["agarbatti", "flowers", "dhoop", "dia", "sindur", "coconut"]
+  }
+]
+ }
